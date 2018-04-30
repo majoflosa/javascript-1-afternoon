@@ -16,7 +16,7 @@ function greeting( name ) {
 //Name it newGreeting.
 
 //Code Here
-var newGreeting = function( name ) {
+var newGreeting = function ( name ) {
   return "Hello, " + name;
 }
 
